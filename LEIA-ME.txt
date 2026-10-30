@@ -1,0 +1,11 @@
+AVALIACAO LOGICA - 50 EXERCICIOS
+
+1. Extraia esta pasta.
+2. Abra a pasta no VS Code.
+3. No terminal, execute:
+   npm install prompt-sync
+4. Para executar um arquivo:
+   node exercicio1.js
+   (troque o numero para testar os outros exercicios)
+
+Foram criados os arquivos exercicio1.js ate exercicio50.js.
